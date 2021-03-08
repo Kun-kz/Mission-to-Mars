@@ -15,6 +15,10 @@ The following tasks were completed:
 - Software: Python, MongoDB, Flask
 
 ## Results
+The following is the screenshot of the HTML page:
+
+![](127.0.0.1_5000_.png)
+
 
 Our web app contained latest Mars news, Mars facts, featured Mars image and Mars hemispheres images and titles. By click on the “Scrape New Data” button, our website would scrape all latest data from different websites and display it.
 
