@@ -18,4 +18,4 @@ The following tasks were completed:
 
 Our web app contained latest Mars news, Mars facts, featured Mars image and Mars hemispheres images and titles. By click on the “Scrape New Data” button, our website would scrape all latest data from different websites and display it.
 
-We also set the “Scrape New Data” button color to green and added the hemisphere images as thumbnails.
+In the challenge, we updated the index.html to make it mobile-responsive. We also set the “Scrape New Data” button color to green and added the hemisphere images as thumbnails.
