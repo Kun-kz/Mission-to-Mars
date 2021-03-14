@@ -15,7 +15,7 @@ The following tasks were completed:
 - Software: Python, MongoDB, Flask
 
 ## Results
-The following is the screenshot of the HTML page:
+The following was the screenshot of the HTML page:
 
 ![](127.0.0.1_5000_.png)
 
